@@ -8,7 +8,7 @@ Usage
 
 qtot(v, treeRadius, woodType, probeDepth, probeStart, sapRadius)
 
-#Arguments:	
+### Arguments:
 
 | Variable | Definition |
 | -------- | ---------- |
