@@ -1,7 +1,9 @@
 sapflux-Excel
 =============
 
-Functions to generate predictions of whole tree sap flow based on sap flux density observations. If input is in units of (mass / m^2 / time), the output is (mass / time).
+Functions to generate predictions of whole tree sap flow based on sap flux density observations in Excel. If input is in units of (mass / m^2 / time), the output is (mass / time).
+
+The example file SapfluxScaling.xlsm includes the functions below as a VBA module.
 
 Usage
 -----
